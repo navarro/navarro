@@ -1,16 +1,30 @@
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=200&section=header&text=MNavarro&fontSize=50&fontColor=c9d1d9&animation=fadeIn&fontAlignY=40&desc=Software%20Engineer%20%7C%20Data%20%26%20AI%20Specialist&descAlignY=65&descAlign=50" alt="Header Corporativo" />
+</div> <div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Arquitetura+de+Software+e+Backend;Engenharia+de+Dados+e+Dashboards;Solu%C3%A7%C3%B5es+em+Intelig%C3%AAncia+Artificial;Desenvolvimento+com+Python,+PHP+e+JS" alt="Typing SVG Corporativo" />
+  </a>
+</div>  
 
-👨‍💻 
+⚙️ Stack Tecnológico
 
-Foco especial em Python, Inteligência Artificial, Banco de Dados, Modelagem, Análise de Dados e Desenvolvimento Web.
+<div align="center">
+<h4>Linguagens de Programação</h4>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,php,js,ts,html,css&theme=dark" alt="Linguagens" />
+  </a>   <h4>Frameworks e Bibliotecas</h4>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=django,laravel,fastapi,react,vue&theme=dark" alt="Frameworks" />
+  </a>   <h4>Dados e Inteligência Artificial</h4>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,tensorflow,pytorch&theme=dark" alt="Dados e IA" />
+  </a>   <h4>DevOps e Ferramentas</h4>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,git,linux&theme=dark" alt="DevOps e Ferramentas" />
+  </a>
+</div>
 
-•
-🔭 Atualmente trabalhando em projetos envolvendo Python, IA e Análise de Dados.
 
-•
-🌱 Desenvolvimento Full-Stack.
-
-•
-⚡ 
 
 
 🛠️ Tecnologias e Ferramentas
